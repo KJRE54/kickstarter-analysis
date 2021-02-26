@@ -18,7 +18,7 @@ of a campaigns' launch date regardless of year launched. A line chart based on t
 outcomes versus the launch months was created to see the peeks and valleys of 3 line 
 trends corresponding to "successful", "failed" and "canceled" outcomes.
 
-![](ProjectPics/Theater_Outcomes_vs_Launch.png)
+![](ProjectPics/blob/main/Theater_Outcomes_vs_Launch.png)
 
 _See pivot table.  See Outcome vs Launch chart._
 
@@ -29,7 +29,7 @@ the outcome categories. Additional columns were created to look at the percentag
 change of each outcome per dollar range and a line chart was created based
 on this relationship to draw insight. 
 
-![](ProjectPics/Outcomes_vs_Goals.png)
+![](ProjectPics/blob/main/Outcomes_vs_Goals.png)
 
 _See Goal Range table.  See Outcome Based on Goal chart._
 

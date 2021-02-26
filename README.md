@@ -31,6 +31,7 @@ on this relationship to draw insight.
 
 ![]https://github.com/KJRE54/ProjectPics/blob/main/Outcomes_vs_Goals.png)
 
+
 _See Goal Range table. 
 
 ### Challenges and Difficulties Encountered

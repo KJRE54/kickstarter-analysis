@@ -19,7 +19,7 @@ outcomes versus the launch months was created to see the peeks and valleys of 3 
 trends corresponding to "successful", "failed" and "canceled" outcomes.
 
 _See pivot table.  See Outcome vs Launch chart._
-![](ProjectPics/Theater_Outcomes_vs_Launch.png)
+![](KJRE54/ProjectPics/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals---  (ADD SCREENSHOT)
@@ -31,7 +31,7 @@ on this relationship to draw insight.
 
 
 _See Goal Range table.  See Outcome Based on Goal chart._
-![](ProjectPics/Outcomes_vs_Goals.png)
+![](KJRE54/ProjectPics/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered---
 There was no difficulties encountered by this analyst, but COUNTIFS statements 

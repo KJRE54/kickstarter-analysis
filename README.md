@@ -18,7 +18,7 @@ of a campaigns' launch date regardless of year launched. A line chart based on t
 outcomes versus the launch months was created to see the peeks and valleys of 3 line 
 trends corresponding to "successful", "failed" and "canceled" outcomes.
 
-![](ProjectPics/blob/main/Theater_Outcomes_vs_Launch.png)
+![](kickstarter-analysis/ProjectPics/Theater_Outcomes_vs_Launch.png)
 
 _See pivot table.  See Outcome vs Launch chart._
 

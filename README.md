@@ -29,8 +29,7 @@ the outcome categories. Additional columns were created to look at the percentag
 change of each outcome per dollar range and a line chart was created based
 on this relationship to draw insight. 
 
-![]https://github.com/KJRE54/ProjectPics/blob/main/Outcomes_vs_Goals.png)
-
+![](https://github.com/KJRE54/ProjectPics/blob/main/Outcomes_vs_Goals.png)
 
 _See Goal Range table. 
 

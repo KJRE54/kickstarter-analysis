@@ -20,7 +20,9 @@ trends corresponding to "successful", "failed" and "canceled" outcomes.
 
 ![](https://github.com/KJRE54/ProjectPics/blob/main/Theater_Outcomes_vs_Launch.png)
 
-_See pivot table.  
+![](https://github.com/KJRE54/ProjectPics/blob/main/OutcomesBasedOnLaunchDatePivotTbl.png)
+
+ 
 
 ### Analysis of Outcomes Based on Goals
 The approach to this analysis was to group the project's goal amounts in
@@ -31,7 +33,8 @@ on this relationship to draw insight.
 
 ![](https://github.com/KJRE54/ProjectPics/blob/main/Outcomes_vs_Goals.png)
 
-_See Goal Range table. 
+![](https://github.com/KJRE54/ProjectPics/blob/main/Outcomes_vs_GoalsPivotTbl.png)
+ 
 
 ### Challenges and Difficulties Encountered
 There was no difficulties encountered by this analyst, but COUNTIFS statements 
@@ -69,10 +72,10 @@ thus introducing errors into the quality of analysis.
 
 - What are some other possible tables and/or graphs that we could create?
 
-Other possible tables and/or graphs should've been to look at each trend line filtered by 
-country as based on goal and outcome. We could've looked at outcome by launch date pivot 
-table by quarter, instead of by month. We could have bar graphed the play outcomes by 
+Other possible tables and/or graphs could've been to look at each trend line filtered by 
+country based on goal and outcome. We could've looked at outcome by launch date pivot 
+table by quarter (see pic below), instead of by month . We could have bar graphed the play outcomes by 
 country location to see if that produced any significant insights and it would've eliminated 
 the different _currency type_ issue associated with each campaign in the analysis.
 
-
+![](https://github.com/KJRE54/ProjectPics/blob/main/OutcomesBasedOnLaunchDateQTRSPivotTbl.png)
